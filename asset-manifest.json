@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/agrosat-uz/static/css/main.e99538a7.css",
-    "main.js": "/agrosat-uz/static/js/main.16157ac6.js",
+    "main.js": "/agrosat-uz/static/js/main.0ae9019c.js",
     "index.html": "/agrosat-uz/index.html",
     "main.e99538a7.css.map": "/agrosat-uz/static/css/main.e99538a7.css.map",
-    "main.16157ac6.js.map": "/agrosat-uz/static/js/main.16157ac6.js.map"
+    "main.0ae9019c.js.map": "/agrosat-uz/static/js/main.0ae9019c.js.map"
   },
   "entrypoints": [
     "static/css/main.e99538a7.css",
-    "static/js/main.16157ac6.js"
+    "static/js/main.0ae9019c.js"
   ]
 }
